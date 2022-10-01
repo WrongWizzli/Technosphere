@@ -1,6 +1,6 @@
 ## Technosphere courses
 
-Code written on Technosphere education prjoect
+Code written on Technosphere education project. Education archive, code may be scaring
 
 #### Content
 * **Data Science** - introduction to data science
